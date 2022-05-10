@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<a href="/10_advanced-css/index.html">Here's an example of web layout made by myself:</a>
+<h1>Hello, my name is Ildar</h1>
+<p>and I know how to make cool web layouts.</p>
+<a href="/10_advanced-css/index.html">Here's an example:</a>
 </body>
 </html>
