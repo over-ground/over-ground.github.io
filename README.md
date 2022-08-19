@@ -4,14 +4,25 @@
   <p>and I know how to make cool web layouts.</p>
   <p><a href="/10_advanced-css/index.html">Here's an example:</a></p>
   <hr>
-  <p>Have a listen to my bots for Voice assistants:
-  <p><a href="https://alice.ya.ru/s/c58d1e7f-eb4b-4c81-b699-db535dc77061">Yandex Alice - What time is it now in the world?</a>
+  <h2>Have a listen to my bots for Voice assistants:</h2>
+  <h3>Yandex Alice</h3>
+  <p><a href="https://alice.ya.ru/s/c58d1e7f-eb4b-4c81-b699-db535dc77061">What time is it now in the world?</a>
     <a href="https://dialogs.yandex.ru/store/skills/3259937a-kotoryj-cha?utm_source=site&utm_medium=badge&utm_campaign=v1&utm_term=d1" target="_blank"><img alt="Алиса это умеет" src="https://dialogs.s3.yandex.net/badges/v1-term1.svg"/></a></p>
-  <p><a href="https://alice.ya.ru/s/443e48b1-2093-4328-a597-3796ab3ac670">Yandex Alice - National Anthems</a>
+  <p><a href="https://alice.ya.ru/s/443e48b1-2093-4328-a597-3796ab3ac670">National Anthems quiz</a>
     <a href="https://dialogs.yandex.ru/store/skills/057cdf6c-gimny-stran-mira?utm_source=site&utm_medium=badge&utm_campaign=v1&utm_term=d1" target="_blank"><img alt="Алиса это умеет" src="https://dialogs.s3.yandex.net/badges/v1-term1.svg"/></a></p>
-  <p><a href="https://marusia.mail.ru/skill/894cd21b-e74a-4fec-96cd-0c68dfaf9903">VK Marusya - National Anthems (direct link to Marusya/Capsule website)</a></p>
-  <p><a href="http://vk.me/marusia?event_name=external.894cd21b-e74a-4fec-96cd-0c68dfaf9903.start">VK Marusya - National Anthems (deeplink)</a></p>
-  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">Google Assistance - National Anthems quiz (link to Action)</p>
+  <h3>VK Marusya:</h3>
+  <p><a href="https://marusia.mail.ru/skill/894cd21b-e74a-4fec-96cd-0c68dfaf9903">National Anthems quiz (direct link to Marusya/Capsule website)</a></p>
+  <p><a href="http://vk.me/marusia?event_name=external.894cd21b-e74a-4fec-96cd-0c68dfaf9903.start">National Anthems quiz (deeplink)</a></p>
+  <p><a href="https://vk.com/app51396444?ysclid=l70h7g5dhz132727557"></a>National Anthems quiz (link to skill/app summary)</p>
+  <h3>Google Assistant:</h3>
+  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</p>
+  <h3>Sber Salute:</h3>
+  <p>iOS apps:</p>
+  <p>Salute: <a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df"></a></p>
+  <p>SberBank Online: <a href="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df"></a></p>  
+  <p>Android apps:</p>
+  <p>Salute: <a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df"></a></p>
+  <p>SberBank Online: <a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df"></a></p>
   <p>...</p>
 </body>
 </html>
