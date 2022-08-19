@@ -17,12 +17,12 @@
   <h3>Google Assistant:</h3>
   <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</p>
   <h3>Sber Salute:</h3>
-  <p>iOS apps:</p>
-  <p><link="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute</a></p>
-  <p><link="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online</a></p>  
-  <p>Android apps:</p>
-  <p><link="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute</a></p>
-  <p><link="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online</a></p>
+  <h4>iOS apps:</h4>
+  <p><link href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute</p>
+  <p><link href="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online</p>  
+  <h4>Android apps:</h4>
+  <p><link href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute</p>
+  <p><link href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online</p>
   <p>...</p>
 </body>
 </html>
