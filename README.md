@@ -13,7 +13,7 @@
   <h3>VK Marusya:</h3>
   <p><a href="https://marusia.mail.ru/skill/894cd21b-e74a-4fec-96cd-0c68dfaf9903">National Anthems quiz (direct link to Marusya/Capsule website)</a></p>
   <p><a href="http://vk.me/marusia?event_name=external.894cd21b-e74a-4fec-96cd-0c68dfaf9903.start">National Anthems quiz (deeplink)</a></p>
-  <p><a href="https://vk.com/app51396444?ysclid=l70h7g5dhz132727557"></a>National Anthems quiz (link to skill/app summary)</p>
+  <p><a href="https://vk.com/app51396444?ysclid=l70h7g5dhz132727557">National Anthems quiz (link to skill/app summary)</a></p>
   <h3>Google Assistant:</h3>
   <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</p>
   <h3>Sber Salute:</h3>
