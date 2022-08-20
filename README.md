@@ -15,14 +15,14 @@
   <p><a href="http://vk.me/marusia?event_name=external.894cd21b-e74a-4fec-96cd-0c68dfaf9903.start">National Anthems quiz (deeplink)</a></p>
   <p><a href="https://vk.com/app51396444?ysclid=l70h7g5dhz132727557">National Anthems quiz (link to skill/app summary)</a></p>
   <h3>Google Assistant:</h3>
-  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</p>
-  <!-- 
-  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6.browsable">National Anthems quiz (deeplink)</p> 
-   -->
+  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</a></p>
+  <!-- -->
+  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6.browsable">National Anthems quiz (deeplink)</a></p> 
+  <!-- -->
   <h3>Sber Salute:</h3>
   <h4>iOS apps:</h4>
-  <p><a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Saluteapp: please click in a browser on iOS</a></p>
-  <p><a href="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Onlineapp: please click in a browser on iOS</a></p>  
+  <p><a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute app: please click in a browser on iOS</a></p>
+  <p><a href="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on iOS</a></p>  
   <h4>Android apps:</h4>
   <p><a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute app: please click in a browser on Android</a></p>
   <p><a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on Android</a></p>
