@@ -17,7 +17,7 @@
   <h3>Google Assistant:</h3>
   <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</a></p>
   <!-- -->
-  <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU.browsable">National Anthems quiz (deeplink)</a></p> 
+  <p><a href="https://assistant.google.com/services/invoke/uid/0000000698d3e4f6/alm/CgSSNpzXEgIQAQ==?hl=ru">National Anthems quiz (deeplink)</a></p> 
   <!-- -->
   <h3>Sber Salute:</h3>
   <h4>iOS apps:</h4>
