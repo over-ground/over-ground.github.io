@@ -25,8 +25,7 @@
   <p><a href="sberbankonline://voiceassistant/?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on iOS</a></p>  
   <h4>Android apps:</h4>
   <p><a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute app: please click in a browser on Android</a></p>
-  <p><a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on Android</a></p>
-  <p><a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on Android</a></p>
+  <p><a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on Android</a></p>  
   <p>...</p>
 </body>
 </html>
