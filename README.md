@@ -11,8 +11,8 @@
   <p><a href="https://alice.ya.ru/s/443e48b1-2093-4328-a597-3796ab3ac670">National Anthems quiz</a>
     <a href="https://dialogs.yandex.ru/store/skills/057cdf6c-gimny-stran-mira?utm_source=site&utm_medium=badge&utm_campaign=v1&utm_term=d1" target="_blank"><img alt="Алиса это умеет" src="https://dialogs.s3.yandex.net/badges/v1-term1.svg"/></a></p>
   <h3>VK Marusya:</h3>
-  <p><a href="https://marusia.mail.ru/skill/894cd21b-e74a-4fec-96cd-0c68dfaf9903">National Anthems quiz (direct link to Marusya/Capsule website)</a></p>
-  <p><a href="http://vk.me/marusia?event_name=external.51493614.start">National Anthems quiz (deeplink)</a></p>
+  <p><a href="https://marusia.vk.com/skill/4068fb74-9bad-45c0-8d71-18061830a6d5">National Anthems quiz (direct link to Marusya/Capsule website)</a></p>
+  <p><a href="https://vk.com/write-194070336?text=&text_data=&event_name=external.51493614.start&event_data=%27%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%20%D0%B3%D0%B8%D0%BC%D0%BD%D1%8B%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%20%D0%BC%D0%B8%D1%80%D0%B0%27">National Anthems quiz (deeplink)</a></p>
   <p><a href="https://vk.com/app51493614">National Anthems quiz (link to skill/app summary)</a></p>
   <h3>Google Assistant:</h3>
   <p><a href="https://assistant.google.com/services/a/uid/0000000698d3e4f6?hl=ru-RU">National Anthems quiz (link to Action)</a></p>
