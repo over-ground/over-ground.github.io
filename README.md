@@ -4,7 +4,7 @@
   <p>and I know how to make cool web layouts.</p>
   <p><a href="/10_advanced-css/index.html">Click here to see an example</a></p>
   <hr>
-  <h2>Have a listen to my bots/skills for Voice assistants:</h2>
+  <h2>Have a casual chat with my skills for Voice assistants:</h2>
   <h3>Yandex Alice</h3>
   <p><a href="https://alice.ya.ru/s/c58d1e7f-eb4b-4c81-b699-db535dc77061">What time is it now in the world?</a>
     <a href="https://dialogs.yandex.ru/store/skills/3259937a-kotoryj-cha?utm_source=site&utm_medium=badge&utm_campaign=v1&utm_term=d1" target="_blank"><img alt="Алиса это умеет" src="https://dialogs.s3.yandex.net/badges/v1-term1.svg"/></a></p>
@@ -27,6 +27,8 @@
   <p><a href="companionapp://navigation?pageId=assistant&projectId=e31396e8-350c-420e-9229-ab28ddbc28df">Salute app: please click in a browser on Android</a></p>
   <p><a href="android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/assistant/launcher?projectId=e31396e8-350c-420e-9229-ab28ddbc28df">SberBank Online app: please click in a browser on Android</a></p>  
   <p><a href="https://developers.sber.ru/link/NcOcIAL">New unique link to the app with QR code for Sber Salute apps</a></p>
+  <h2>Play with my Telegram bot:</h2>
+  <p><a href="https://t.me/national_anthems_quiz_bot">National Anthems quiz bot</a></p>
   <p>...</p>
 </body>
 </html>
